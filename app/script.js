@@ -21,6 +21,7 @@ const data = [
     { name: 'Banana', value: 42 },
     { name: 'Orange', value: 33 },
     { name: 'Boskoop', value: 50 },
+    { name: 'Granatapfel', value: 30 }
 ];
 
 data.forEach( entry => {
